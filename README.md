@@ -90,11 +90,11 @@
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
 </a>&nbsp;
 
-<a href="https://www.instagram.com/_abidkhann/?hl=en">
+<!--<a href="https://www.instagram.com/_abidkhann/?hl=en">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>&nbsp;
+</a>&nbsp; -->
 
-<a href="https://www.linkedin.com/in/abid-khan-325795182/">
+<a href="https://www.linkedin.com/in/kajaljha9">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>&nbsp;
 
