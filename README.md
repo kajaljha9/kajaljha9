@@ -18,7 +18,7 @@
     <ul>
       <li> 💻 Front-end: HTML5, CSS3, JavaScript, React.js, Redux.js </li>
       <li> 🌱 Back-end: Node.js, Express.js, MongoDB, Mongoose</li>
-      <li> 🚀 Version Control: Git, GitHub, GitHub CLI</li>
+      <li> 🚀 Version Control: Git, GitHub</li>
     </ul>
   </section>
 
